@@ -1,5 +1,5 @@
 <?php
-error_reporting(1);
+error_reporting(0);
 $hostname_localhost ="localhost";
 $database_localhost ="asterisk";
 $username_localhost ="root";
